@@ -15,7 +15,7 @@ Hi ,I'm Hassan Sajjad, a motivated and personable Software Engineer graduated fr
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-s-881607224/)
 <br/>
 **Languages and Tools:**
-<br  />
+<br/>
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -31,10 +31,11 @@ Hi ,I'm Hassan Sajjad, a motivated and personable Software Engineer graduated fr
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 **Mostly Used Repositories:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hassansajjad123&repo=SaloonApp&show_owner=true)](https://github.com/anuraghazra/hassan)
