@@ -58,16 +58,17 @@ Hey there 👋
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com)
 <br/>
 ## Mostly Used Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hassansajjad123&repo=SaloonApp&show_owner=true)](https://github.com/anuraghazra/hassan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hassansajjad123&repo=SaloonApp&show_owner=true)](https://github.com)
 
 
 ## Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassansajjad123&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassansajjad123&theme=radical)
+<br/>
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassansajjad&show_icons=true&theme=dracula)
 
