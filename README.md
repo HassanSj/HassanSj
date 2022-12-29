@@ -1,17 +1,9 @@
 
 ### Hey there 👋
-
-
 <a  href="https://www.linkedin.com/in/hassan-s-881607224/">
-
 <img  align="right"  alt="Hassan LinkedIN"  width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
-
 </a>
-
-  
-  
-
-hi, i'm Hassan Sajjad, a motivated and personable Software Engineer graduated from Fauji Foundation University Islamabad.
+Hi ,I'm Hassan Sajjad, a motivated and personable Software Engineer graduated from Fauji Foundation University Islamabad.
 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -21,16 +13,11 @@ hi, i'm Hassan Sajjad, a motivated and personable Software Engineer graduated fr
 - :zap: In my free time, I solve problems on GeeksforGeeks , Leet Code and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-s-881607224/)
-
-
-<br  />
-
-  
-
-**languages and tools:**
+<br/>
+**Languages and Tools:**
 <br  />
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
