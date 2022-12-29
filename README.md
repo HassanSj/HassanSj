@@ -18,7 +18,7 @@ Hey there 👋
 
 
 ## Details
-<br/>
+<div>
 <a  href="https://github.com">
 <img  src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme"  alt="Stars Badge"/>&nbsp;
 </a>
@@ -37,7 +37,7 @@ Hey there 👋
 
 <a  href="https://github.com"><img  src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"  alt="License Badge"/>&nbsp;
 </a>
-
+</div>
 ## Languages and Tools
 <br/>
 <div>
