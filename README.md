@@ -19,24 +19,24 @@ Hey there 👋
 
 ## Details
 <div>
-<a  href="https://github.com">
+
 <img  src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme"  alt="Stars Badge"/>&nbsp;
-</a>
 
-<a  href="https://github.com"><img  src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme"  alt="Forks Badge"/>&nbsp;
-</a>
 
-<a  href="https://github.com"><img  src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme"  alt="Pull Requests Badge"/>&nbsp;
-</a>
+<img  src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme"  alt="Forks Badge"/>&nbsp;
 
-<a  href="https://github.com"><img  src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme"  alt="Issues Badge"/>&nbsp;
-</a>
 
-<a  href="https://github.com"><img  alt="GitHub contributors"  src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348">&nbsp;
-</a>
+<img  src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme"  alt="Pull Requests Badge"/>&nbsp;
 
-<a  href="https://github.com"><img  src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"  alt="License Badge"/>&nbsp;
-</a>
+
+<img  src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme"  alt="Issues Badge"/>&nbsp;
+
+
+<img  alt="GitHub contributors"  src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348">&nbsp;
+
+
+<img  src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"  alt="License Badge"/>&nbsp;
+
 </div>
 ## Languages and Tools
 <br/>
