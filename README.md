@@ -1,10 +1,10 @@
-<h1  align="center">Full Stack Developer  <a  href="https://twitter.com/@hassan032001"  ><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-twitter-an-american-online-news-and-social-networking-service-logo-color-tal-revivo.png"/>
+<h1  align="center">Full Stack Developer  <a  href="https://twitter.com/@hassan032001">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-twitter-an-american-online-news-and-social-networking-service-logo-color-tal-revivo.png" />
 </a></h1>
 
 Hey there 👋
 
-<a href="https://www.linkedin.com/in/hassan-s-881607224/"/>
-<img align="right"  src="https://i.ibb.co/dgKBPnB/Screenshot-112-removebg-preview.png" alt="Screenshot-112-removebg-preview" border="0" style="width: 165px; height: 10px;"  width="165"  height="80"/>
+
 
 > **I'm Hassan Sajjad, a motivated and personable Software Engineer graduated from Fauji Foundation University.**
 
@@ -12,26 +12,33 @@ Hey there 👋
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring  AI , Machine Learning , Deep Learning , SaaS , Blockchain
 - :zap: In my free time, I solve problems on GeeksforGeeks , Leet Code and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-s-881607224/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-s-881607224/)
 
 
 
 
-**Profile Details:**
+## Details
 <br/>
-<a  href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img  src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme"  alt="Stars Badge"/></a>
+<a  href="https://github.com">
+<img  src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme"  alt="Stars Badge"/>&nbsp;
+</a>
 
-<a  href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img  src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme"  alt="Forks Badge"/></a>
+<a  href="https://github.com"><img  src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme"  alt="Forks Badge"/>&nbsp;
+</a>
 
-<a  href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img  src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme"  alt="Pull Requests Badge"/></a>
+<a  href="https://github.com"><img  src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme"  alt="Pull Requests Badge"/>&nbsp;
+</a>
 
-<a  href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img  src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme"  alt="Issues Badge"/></a>
+<a  href="https://github.com"><img  src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme"  alt="Issues Badge"/>&nbsp;
+</a>
 
-<a  href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img  alt="GitHub contributors"  src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
+<a  href="https://github.com"><img  alt="GitHub contributors"  src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348">&nbsp;
+</a>
 
-<a  href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img  src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"  alt="License Badge"/></a>
+<a  href="https://github.com"><img  src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"  alt="License Badge"/>&nbsp;
+</a>
 
-**Languages and Tools:**
+## Languages and Tools
 <br/>
 <div>
 
@@ -53,33 +60,16 @@ Hey there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-**Mostly Used Repositories:**
+## Mostly Used Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hassansajjad123&repo=SaloonApp&show_owner=true)](https://github.com/anuraghazra/hassan)
 
 
-**Github Statistics:**
+## Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassansajjad123&theme=radical)](https://git.io/streak-stats)
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassansajjad&show_icons=true&theme=dracula)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -97,7 +87,7 @@ Please read the Guidelines first.
 
   
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org)
 
   
 
