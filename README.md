@@ -61,12 +61,12 @@ Hey there 👋
 <br/>
 ## Mostly Used Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hassansajjad123&repo=SaloonApp&show_owner=true)](https://github.com)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanSj&repo=SaloonApp&show_owner=true)](https://github.com)
 
 
 ## Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassansajjad123&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanSj&theme=radical)
 <br/>
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassansajjad&show_icons=true&theme=dracula)
