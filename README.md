@@ -7,19 +7,18 @@ Hey there 👋
 <img align="right"  src="https://i.ibb.co/dgKBPnB/Screenshot-112-removebg-preview.png" alt="Screenshot-112-removebg-preview" border="0" style="width: 165px; height: 10px;"  width="165"  height="80"/>
 
 > **I'm Hassan Sajjad, a motivated and personable Software Engineer graduated from Fauji Foundation University.**
-> 
-> - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-> 
-> - :seedling: Exploring  AI , Machine Learning , Deep Learning , SaaS , Blockchain
-> 
-> - :zap: In my free time, I solve problems on GeeksforGeeks , Leet Code and read tech articles.
-> 
-> - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-s-881607224/)
+
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: Exploring  AI , Machine Learning , Deep Learning , SaaS , Blockchain
+- :zap: In my free time, I solve problems on GeeksforGeeks , Leet Code and read tech articles.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-s-881607224/)
 
 
 
 
 **Profile Details:**
+<br/>
 <a  href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img  src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme"  alt="Stars Badge"/></a>
 
 <a  href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img  src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme"  alt="Forks Badge"/></a>
