@@ -4,7 +4,7 @@
 </a></h1>
 <div id ="header" align="center">
 <img
-src="https://giphy.com/embed/26tn33aiTi1jkl6H6" style="align-items: center"  width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
+src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" style="align-items: center"  width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
   </div>
 Hey there! Hope You are Doing Great 👋
 
