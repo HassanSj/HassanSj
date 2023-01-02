@@ -2,13 +2,12 @@
 <h1  align="center">Full Stack Developer  <a  href="https://twitter.com/@hassan032001">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-twitter-an-american-online-news-and-social-networking-service-logo-color-tal-revivo.png" />
 </a></h1>
-<div id ="header" align="center">
+<div id="header" align="center">
 <img
-src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" style="align-items: center"  width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
+src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" style="align-items: center"  width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen />
   </div>
+  
 Hey there! Hope You are Doing Great 👋
-
-
 
 > **I'm Hassan Sajjad, a motivated and personable Software Engineer graduated from Fauji Foundation University Islamabad.**
 
