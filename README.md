@@ -2,8 +2,7 @@
 <h1  align="center">Full Stack Developer  <a  href="https://twitter.com/@hassan032001">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-twitter-an-american-online-news-and-social-networking-service-logo-color-tal-revivo.png" />
 </a></h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
   
 Hey there! Hope You are Doing Great 👋
 
@@ -24,23 +23,15 @@ Hey there! Hope You are Doing Great 👋
 
 
 <p align="center">
+<img  src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme"  alt="Stars Badge"/>
+<img  src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme"  alt="Forks Badge"/>
+<img  src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme"  alt="Pull Requests Badge"/>
+<img  src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme"  alt="Issues Badge"/>
+<img  alt="GitHub contributors"  src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348">
+<img  src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"  alt="License Badge"/>
+<img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg"/>
 
-<img  src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme"  alt="Stars Badge"/>&nbsp;
-
-
-<img  src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme"  alt="Forks Badge"/>&nbsp;
-
-
-<img  src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme"  alt="Pull Requests Badge"/>&nbsp;
-
-
-<img  src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme"  alt="Issues Badge"/>&nbsp;
-
-
-<img  alt="GitHub contributors"  src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348">&nbsp;
-
-
-<img  src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"  alt="License Badge"/>&nbsp;
+  
 </p>
 
 ## Languages and Tools
