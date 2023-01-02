@@ -1,24 +1,29 @@
+
 <h1  align="center">Full Stack Developer  <a  href="https://twitter.com/@hassan032001">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-twitter-an-american-online-news-and-social-networking-service-logo-color-tal-revivo.png" />
 </a></h1>
-
-Hey there 👋
-
-
-
-> **I'm Hassan Sajjad, a motivated and personable Software Engineer graduated from Fauji Foundation University.**
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+Hey there! Hope You are Doing Great 👋
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring  AI , Machine Learning , Deep Learning , SaaS , Blockchain
-- :zap: In my free time, I solve problems on GeeksforGeeks , Leet Code and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-s-881607224/)
+
+> **I'm Hassan Sajjad, a motivated and personable Software Engineer graduated from Fauji Foundation University Islamabad.**
+
+
+:telescope:  I’m working as a Software Engineer and contributing to frontend and backend.
+:seedling:  Exploring  AI , Machine Learning , Deep Learning , SaaS , Blockchain
+:zap:  In my free time, I solve problems on GeeksforGeeks , Leet Code and read tech articles.
+:mailbox: How to reach me: [![LinkedinBadge](https://img.shields.io/badge/-LinkedIN-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-s-881607224/)
 
 
 
 
 ## Details
-<div>
+
+
+<p align="center">
 
 <img  src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme"  alt="Stars Badge"/>&nbsp;
 
@@ -36,7 +41,7 @@ Hey there 👋
 
 
 <img  src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"  alt="License Badge"/>&nbsp;
-</div>
+</p>
 
 ## Languages and Tools
 <div>
@@ -69,19 +74,25 @@ Hey there 👋
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanSj&theme=radical)
 <br/>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassansajjad&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanSj&show_icons=true&theme=dracula)
 
 
 
 ## Contribute
 
-  
-
 Contributions are always welcome!
-
 Please read the Guidelines first.
+If you have a suggestion that would make this better, please fork the repo and create a pull request.
 
+## Support
 
+<a href="https://www.buymeacoffee.com" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+<p>Or</p> 
+
+<a href="https://www.patreon.com">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 
 ## License
 
