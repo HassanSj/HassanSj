@@ -3,8 +3,8 @@
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-twitter-an-american-online-news-and-social-networking-service-logo-color-tal-revivo.png" />
 </a></h1>
 <div id="header" align="center">
-<img
-src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" style="align-items: center"  width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen />
+<a href="https://freeimage.host/"><img src="https://iili.io/Hu8NPwX.gif" alt="Hu8NPwX.gif" height="270" border="0" /></a>
+
   </div>
   
 Hey there! Hope You are Doing Great 👋
@@ -12,9 +12,9 @@ Hey there! Hope You are Doing Great 👋
 > **I'm Hassan Sajjad, a motivated and personable Software Engineer graduated from Fauji Foundation University Islamabad.**
 
 
-:telescope:  I’m working as a Software Engineer and contributing to frontend and backend.
-:seedling:  Exploring  AI , Machine Learning , Deep Learning , SaaS , Blockchain
-:zap:  In my free time, I solve problems on GeeksforGeeks , Leet Code and read tech articles.
+:telescope:  I’m working as a Software Engineer and contributing to frontend and backend.<br/>
+:seedling:  Exploring  AI , Machine Learning , Deep Learning , SaaS , Blockchain<br/>
+:zap:  In my free time, I solve problems on GeeksforGeeks , Leet Code and read tech articles.<br/>
 :mailbox: How to reach me: [![LinkedinBadge](https://img.shields.io/badge/-LinkedIN-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-s-881607224/)
 
 
