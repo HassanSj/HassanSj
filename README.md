@@ -3,8 +3,8 @@
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-twitter-an-american-online-news-and-social-networking-service-logo-color-tal-revivo.png" />
 </a></h1>
 <div id ="header" align="center">
-<iframe
-src="https://giphy.com/embed/26tn33aiTi1jkl6H6" style="align-items: center"  width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img
+src="https://giphy.com/embed/26tn33aiTi1jkl6H6" style="align-items: center"  width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
   </div>
 Hey there! Hope You are Doing Great 👋
 
