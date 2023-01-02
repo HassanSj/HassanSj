@@ -2,8 +2,10 @@
 <h1  align="center">Full Stack Developer  <a  href="https://twitter.com/@hassan032001">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-twitter-an-american-online-news-and-social-networking-service-logo-color-tal-revivo.png" />
 </a></h1>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
-  
+<div id ="header" align="center">
+<iframe
+src="https://giphy.com/embed/26tn33aiTi1jkl6H6" style="align-items: center"  width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  </div>
 Hey there! Hope You are Doing Great 👋
 
 
