@@ -57,8 +57,7 @@ Hey there! Hope You are Doing Great 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com)
 <br/>
 ## Mostly Used Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanSj&repo=SaloonApp)
 ## Statistics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanSj&theme=radical)
