@@ -58,8 +58,8 @@ Hey there! Hope You are Doing Great 👋
 <br/>
 ## Mostly Used Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanSj&repo=Exams&show_owner=true)](https://github.com)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanSj&repo=SaloonApp)](https://github.com/HassanSj/SaloonApp)
 
 ## Statistics
 
