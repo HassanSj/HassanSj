@@ -3,7 +3,7 @@
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-twitter-an-american-online-news-and-social-networking-service-logo-color-tal-revivo.png" />
 </a></h1>
 <div id="header" align="center">
-<a href="https://freeimage.host/"><img src="https://iili.io/Hu8NPwX.gif" alt="Hu8NPwX.gif" height="270" border="0" /></a>
+
 
   </div>
   
