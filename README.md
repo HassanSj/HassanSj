@@ -31,9 +31,9 @@ Hey there! Hope You are Doing Great 👋
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/hassan s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan s" height="30" width="40" /></a>
 <a href="https://dev.to/hassansajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hassansajjad" height="30" width="40" /></a>
 <a href="https://twitter.com/@hassan032001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hassan032001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hassan s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan s" height="30" width="40" /></a>
 <a href="https://dribbble.com/hassansajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hassansajjad" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hassansajjad7051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hassansajjad7051" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hassansajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hassansajjad" height="30" width="40" /></a>
