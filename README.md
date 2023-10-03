@@ -67,6 +67,7 @@ Hey there! Hope You are Doing Great 👋
 ## Mostly Used Repositories
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanSj&repo=Microservices-Java-Spring)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanSj&repo=facebook)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanSj&repo=EdFry)
 ## Statistics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanSj&theme=radical)
