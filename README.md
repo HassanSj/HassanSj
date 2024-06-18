@@ -13,7 +13,7 @@ Hey there! Hope You are Doing Great 👋
 
 > **I'm Hassan Sajjad, a motivated and personable Software Engineer graduated from Fauji Foundation University Islamabad.**
 
-- 🔭 I’m currently working on **Calriata**
+- 🔭 I’m currently working on **Collins Aerospace (Power and Controls)**
 
 - 🌱 I’m currently learning **Angular , Vue , Redis , Python , Java**
 
