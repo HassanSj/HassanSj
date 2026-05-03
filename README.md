@@ -21,9 +21,9 @@ Hey there! Hope You are Doing Great 👋
 
 - 🤝 I’m looking for help with [T3 Twitter](https://github.com/salaarkhan-dev/t3-twitter)
 
-- 👨‍💻 All of my projects are available at [https://hassanportfolio.vercel.app/](https://hassanportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://the-developer-dossier.vercel.app](https://the-developer-dossier.vercel.app)
 
-- 📝 I regularly write articles on [https://hassanportfolio.vercel.app/](https://hassanportfolio.vercel.app/)
+- 📝 I regularly write articles on [https://the-developer-dossier.vercel.app](https://the-developer-dossier.vercel.app)
 
 - 💬 Ask me about **React Next**
 
