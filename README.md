@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassan Sajjad</h1>
-<h3 align="center">A passionate full stack engineer from Pakistan <a href="https://twitter.com/hassan032001"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-twitter-color-tal-revivo.png" alt="twitter"/></a></h3>
+<div align="center">
+    <img src="https://github.com/HassanSj/HassanSj/blob/main/images/header.gif" alt="header"/>
+</div>
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<h3 align="center">A passionate full stack engineer from Pakistan <a href="https://twitter.com/hassan032001"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="24" width="24"/></a></h3>
 
 <div id="header" align="center">
 </div>
@@ -23,6 +27,16 @@ Hey there! Hope You are Doing Great 👋
 - 💬 Ask me about **React Next**
 
 - 📫 How to reach me **sajjadhassa389@gmail.com**
+
+<hr>
+
+<h2 align="center">💬 My Blog Articles</h2>
+<p align="center" align='right'>
+  <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,19 +76,20 @@ Hey there! Hope You are Doing Great 👋
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HassanSj&layout=compact)](https://github.com/HassanSj)
+[![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=HassanSj&layout=compact)](https://github.com/HassanSj)
+
 
 ## Mostly Used Repositories
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanSj&repo=Microservices-Java-Spring)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanSj&repo=facebook)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanSj&repo=EdFry)
+![Readme Card](https://readme-stats-fast.vercel.app/api/pin/?username=HassanSj&repo=Microservices-Java-Spring)
+![Readme Card](https://readme-stats-fast.vercel.app/api/pin/?username=HassanSj&repo=facebook)
+![Readme Card](https://readme-stats-fast.vercel.app/api/pin/?username=HassanSj&repo=EdFry)
 
 ## Statistics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanSj&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanSj&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://readme-stats-fast.vercel.app/api?username=HassanSj&show_icons=true&theme=dracula)
 
 ## Contribute
 
@@ -93,7 +108,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## Rewards
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassansj" alt="hassansj" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HassanSj" alt="HassanSj" /></a></p>
 
 ## License
 
