@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hassan Sajjad</h1>
-<div align="center">
-    <img src="https://github.com/HassanSj/HassanSj/blob/main/images/header.gif" alt="header"/>
-</div>
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <h3 align="center">A passionate full stack engineer from Pakistan <a href="https://twitter.com/hassan032001"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="24" width="24"/></a></h3>
 
