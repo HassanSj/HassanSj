@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hassan Sajjad</h1>
-<h2 align="center"> 👨‍💻 Whoami</h2>
-<h3 align="center">A passionate full stack engineer from Pakistan <a href="https://twitter.com/hassan032001"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="24" width="24"/></a></h3>
-
+<h1 align="center">Hi 👋, I'm Hassan Sajjad <a href="https://twitter.com/hassan032001"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="25" width="25"/></a></h1>
+<h2 align="center"> Senior Software Engineer | Full-Stack Development · AI/ML · MLOps</h2>
 <div id="header" align="center">
 </div>
 
@@ -13,17 +11,17 @@ Hey there! Hope You are Doing Great 👋
 
 - 🌱 I'm currently learning **Angular , Vue , Redis , Python , Java**
 
-- 👯 I'm looking to collaborate on **Gemini Energy Solutions**
+- 🧠 AI/ML: LangChain, LlamaIndex, PyTorch, TensorFlow, NLP, and LLM applications
 
-- 🤝 I'm looking for help with [T3 Twitter](https://github.com/salaarkhan-dev/t3-twitter)
+- 🛠️ Full-stack: React, Next.js, TypeScript, Node.js, Python, and Django
 
-- 👨‍💻 All of my projects are available at [https://the-developer-dossier.vercel.app](https://the-developer-dossier.vercel.app)
+- ☁️ Cloud & Data: AWS, Azure, GCP, Databricks, PySpark, and CI/CD
 
-- 📝 I regularly write articles on [https://the-developer-dossier.vercel.app](https://the-developer-dossier.vercel.app)
+- 🌱 Open source: Building practical tools and exploring ideas that solve everyday engineering problems
 
-- 💬 Ask me about **React Next**
+- 💬 Let's talk about: Full-stack development, backend architecture, AI applications, and data engineering
 
-- 📫 How to reach me **sajjadhassa389@gmail.com**
+- 📫 Email: sajjadhassa389@gmail.com
 
 <hr>
 
